@@ -1,0 +1,21 @@
+*{
+    font-family: cursive;
+}
+
+
+.b{
+    font-size: 10px;
+    background: black;
+    border-radius: 10px;
+}
+
+.b:hover{
+    font-size: 60px;
+    color: red;
+    background: white;
+    transition: 5s;
+}
+
+.b2{
+    color: red;
+}

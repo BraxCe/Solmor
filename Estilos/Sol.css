@@ -1,0 +1,59 @@
+*{
+    font-size: 20px;
+}
+
+body{
+    background: black;
+}
+
+p{
+    color: pink;
+}
+
+.b{
+    color: red;
+    display: block;
+}
+
+.b2{
+    color: white;
+    background: black;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.b3{
+    display: block;
+    color: rgb(145, 0, 0);
+}
+
+.b4{
+    color: red;
+    display: block;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.b5{
+    border-radius: 20px;
+    font-family: cursive;
+    font-size: 20pxpx;
+    color: red;
+    background: red;
+}
+
+.b5:hover{
+    color: red;
+    background: black;
+    font-size: 40px;
+    transition: 2s;
+}
+
+.b5::selection{
+    color: red;
+}
+
+.b6{
+    color: white;
+}
+
